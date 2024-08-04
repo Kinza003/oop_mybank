@@ -1,0 +1,2 @@
+"Welcome to MyBank, a console-based banking application built with TypeScript and Object-Oriented Programming principles. This project simulates a simple banking system, allowing users to manage their accounts with ease. Upon launching the application, users are prompted to enter their account number, followed by a menu offering four key options: Deposit, Withdraw, Check Balance, and Exit. With a focus on modularity and type safety."
+
